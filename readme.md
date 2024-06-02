@@ -10,9 +10,14 @@ npm install
 npm start
 ```
 
-### Tecnologias
+### Tecnologias utilizadas
 - Nodejs
 - Express
 - Sequelize
+
+  
+### Fluxograma da aplicação
+![Captura de tela 2024-06-02 111403](https://github.com/PedroAugustoACT/to-do-list-api/assets/58444890/0108c0b4-0dd0-4673-a2b7-c3389b62e4ad)
+
 
 
